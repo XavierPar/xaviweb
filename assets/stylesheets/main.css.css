@@ -1,0 +1,14 @@
+
+nav{
+	background:blue;
+	size: 24px;
+}
+.container {
+	margin: 0 auto;
+	padding-left: 30px;
+	padding-right: 30px;
+	width: 960px;
+}
+h1 {
+	color: green;
+}
